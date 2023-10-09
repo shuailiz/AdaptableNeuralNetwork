@@ -1,7 +1,0 @@
-setup.py
-src/AdaptableNeuralNetwork.egg-info/PKG-INFO
-src/AdaptableNeuralNetwork.egg-info/SOURCES.txt
-src/AdaptableNeuralNetwork.egg-info/dependency_links.txt
-src/AdaptableNeuralNetwork.egg-info/top_level.txt
-src/adaptable_neural_network/__init__.py
-src/adaptable_neural_network/simple_cnn.py
